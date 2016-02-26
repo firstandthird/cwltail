@@ -1,12 +1,12 @@
 {
-  "name": "cw-tail",
+  "name": "cwltail",
   "description": "Tail AWS Cloudwatch Logs",
-  "homepage": "https://github.com/firstandthird/cw-tail",
+  "homepage": "https://github.com/firstandthird/cwltail",
   "author": "First+Third",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firstandthird/cw-tail.git"
+    "url": "https://github.com/firstandthird/cwltail.git"
   },
   "keywords": [
     "aws",
@@ -22,5 +22,8 @@
     "eslint-config-airbnb": "^6.0.2",
     "eslint-config-firstandthird": "^1.5.0",
     "eslint-plugin-react": "^4.1.0"
+  },
+  "bin": {
+    "cwltail": "index.js"
   }
 }
