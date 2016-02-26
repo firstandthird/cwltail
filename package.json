@@ -3,7 +3,7 @@
   "description": "Tail AWS Cloudwatch Logs",
   "homepage": "https://github.com/firstandthird/cwltail",
   "author": "First+Third",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/firstandthird/cwltail.git"
