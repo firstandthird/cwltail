@@ -15,7 +15,8 @@
     "tail"
   ],
   "dependencies": {
-    "aws-sdk": "^2.2.38"
+    "aws-sdk": "^2.2.38",
+    "purdy": "^1.6.0"
   },
   "devDependencies": {
     "eslint": "^2.2.0",
