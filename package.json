@@ -16,13 +16,13 @@
   ],
   "dependencies": {
     "aws-sdk": "^2.2.38",
-    "purdy": "^1.6.0"
+    "purdy": "^2.2.0"
   },
   "devDependencies": {
-    "eslint": "^2.2.0",
-    "eslint-config-airbnb": "^6.0.2",
-    "eslint-config-firstandthird": "^1.5.0",
-    "eslint-plugin-react": "^4.1.0"
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-config-firstandthird": "^3.1.0",
+    "eslint-plugin-react": "^6.8.0"
   },
   "bin": {
     "cwltail": "index.js"
